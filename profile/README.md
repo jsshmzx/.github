@@ -1,6 +1,6 @@
 # Intro
 
-This is an unofficial organization initiated by [Teror Fox](https://github.com/sysfox), aimed at providing a home for students of Haimen Middle School on Github.
+This is an unofficial organization initiated by [Teror Fox](https://github.com/sysfox), aimed at providing a home for students from Haimen Middle School on Github.
 
 # Join
 
